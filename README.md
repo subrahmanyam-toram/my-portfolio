@@ -13,7 +13,7 @@ https://subrahmanyam-toram.github.io/my-portfolio/
 
 ## 📸 Desktop View
 
-<img width="100%" alt="Portfolio Desktop View" src="./assets/images/portfolio-preview.png">
+<img width="100%" alt="Portfolio Desktop View" src="./assets/images/desktop.png">
 
 ---
 
